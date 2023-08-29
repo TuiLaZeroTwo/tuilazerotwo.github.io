@@ -154,3 +154,9 @@ body {
     width: 410;
     border: linear-gradient(45deg, #38fddc, #6a0499);
 }
+
+.music {
+    border-radius: 12px;
+    width: 72;
+    border: linear-gradient(45deg, #38fddc, #6a0499);
+}
