@@ -151,18 +151,18 @@ body {
 }
 
 .top-button {
-  margin-left: 10px;
-  padding: 10px 20px;
   background-color: #007bff;
   color: #fff;
+  padding: 10px 20px;
   text-decoration: none;
   border-radius: 5px;
-  transition: background-color 0.3s;
+  margin-left: 10px;
 }
 
 .top-button:hover {
   background-color: #0056b3;
 }
+
 
 .logo-discord {
   width           : 32px;
